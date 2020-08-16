@@ -11,3 +11,9 @@
 - Apaixonado por NodeJS
 - Morador de Aquiraz/CE
 
+## Some of my Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagolourenco&layout=compact)](https://github.com/Thiagolourenco/github-readme-stats)
+
+
+<!--![Pedes's github stats](https://github-readme-stats.vercel.app/api?username=pedes) -->
