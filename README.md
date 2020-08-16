@@ -11,7 +11,7 @@
 - Apaixonado por NodeJS
 - Morador de Aquiraz/CE
 
-## Some of my Github Stats
+## Algumas Estatísticas do meu GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagolourenco&layout=compact)](https://github.com/Thiagolourenco/github-readme-stats)
 
