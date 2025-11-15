@@ -1,13 +1,10 @@
-# Hi everyone! 👋 I'm **Thiago Lourenço**
+<h1 align="center">Hi everyone! 👋 I'm Thiago Lourenço</h1>
 
-### **Mobile Engineer • React Native & Node.js**
-
-<div align="center">
-
-
-</div>
+<h3 align="center">Mobile Engineer • React Native & Node.js</h3>
 
 ---
+
+<div align="center">
 
 ## 📬 Get in touch!
 
@@ -19,11 +16,11 @@
 
 ## 👨‍💻 About Me
 
-- 📱 Desenvolvedor **React Native**
-- 🔥 Apaixonado por **NodeJS**
-- 🧠 Sempre aprendendo novas tecnologias
-- 🎨 Focado em performance, UX e boas práticas
-- 🌍 Morando em **Aquiraz — Ceará**
+- 📱 Mobile Developer specialized in **React Native**
+- 🔥 Passionate about **Node.js** and backend development
+- 🚀 Always learning and building new side projects
+- 🎯 Focused on performance, clean architecture, and great UX
+- 🌎 Based in **Aquiraz — Ceará, Brazil**
 
 ---
 
@@ -46,10 +43,10 @@
 
 ## 🛠️ Tech Stack
 
-**Mobile:**  
+**Mobile Development:**  
 React Native • Expo • TypeScript • Zustand • React Query • Skia • MMKV
 
-**Backend:**  
+**Backend Development:**  
 Node.js • Express • Prisma • PostgreSQL
 
 **Cloud & Tools:**  
@@ -59,7 +56,7 @@ Firebase • AWS • Git • Fastlane • EAS Build • GraphQL
 
 ## 📌 Featured Projects
 
-- *(Adicione aqui seus projetos mais importantes)*
+- *(Add your highlighted repositories here)*
 
 ---
 
